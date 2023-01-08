@@ -18,6 +18,11 @@ a:hover {
     text-decoration: underline;
 }
 
+button {
+    background-color: purple;
+    color: white;
+}
+
 ul {
     display: flex;
 }
