@@ -19,12 +19,18 @@ a:hover {
 }
 
 button {
-    background-color: purple;
+    background-color: rgb(100 21 255 );
     color: white;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 4px;
 }
 
 ul {
     display: flex;
+    align-items: center;
 }
 
 li {
